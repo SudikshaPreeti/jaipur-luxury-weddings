@@ -31,11 +31,11 @@ A complete SEO-optimized static website for a candid luxury wedding photography 
 - GA4 `generate_lead` conversion event
 
 ## Team (5 Members)
-1. Aarav Sharma — Lead Photographer
-2. Priya Rathore — Candid Specialist
-3. Rohan Mehta — Cinematographer
-4. Simran Kaur — Editor & Colorist
-5. Vikram Singh — Client Relations
+1. Navya Gupta - SEO Strategy & Technical Lead
+2. Sudiksha Preeti - Performance & Analytics Lead
+3. Sakshi Mittal - Content & On-Page SEO
+4. Aarohi Suri - Off-Page SEO & Quality Assurance
+5. Roshni Kumari - UI/UX & Frontend Developer
 
 ## Deployment
 1. Ubuntu VPS on DigitalOcean (GitHub Student Pack credit)
