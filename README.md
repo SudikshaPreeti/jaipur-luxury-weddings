@@ -43,5 +43,4 @@ A complete SEO-optimized static website for a candid luxury wedding photography 
 3. Cloudflare DNS + SSL Full (Strict)
 4. Certbot Let's Encrypt SSL
 
-## Author
-[Your Name] | [Your College] | 2025
+
